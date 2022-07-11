@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = barbarasoares.profissional@gmail.com
+	name = Barbara Soares
